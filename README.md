@@ -24,6 +24,10 @@ EMDY GUI is a PyMOL plugin that generates initial files for molecular dynamics
 PyMOL can install plugins into the correct directory automatically, via the
 "Install Plugin..." menu item.
 
+### License
+
+BSD
+
 ### Contact
 
 If you have any questions about using this program, please feel free to contact
